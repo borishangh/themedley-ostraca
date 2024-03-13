@@ -1,0 +1,8 @@
+--- 
+title: Issues 
+layout: 'base.njk' 
+---
+
+{%- for issue in collections.list | reverse -%}
+<a href="{{issue.url}}">{{issue.data.title}}</a>
+{% endfor %}

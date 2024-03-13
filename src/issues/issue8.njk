@@ -1,0 +1,44 @@
+--- 
+title: Issue \#8 - Mosaic 
+tags: ["issue8", "list"] 
+layout: 'base.njk' 
+---
+
+<section class="med">
+    <h1 class="content-title">
+        Issue #8 : Mosaic
+    </h1>
+
+<ul class="issue-list">
+    <h3 class="issue-catagory">Poetry</h3>
+    {%- for post in collections.issue8 -%}
+        {% if post
+            .data
+            .tags
+            .includes("poetry") %}
+            <li>
+                <a href="{{post.url}}">{{post.data.title}}
+                    /
+                    <i>{{post.data.authour}}</i>
+                </a>
+            </li>
+            {%endif%}
+        {%- endfor -%}
+        <h3 class="issue-catagory">Prose</h3>
+        {%- for post in collections.issue8 -%}
+            {% if post
+                .data
+                .tags
+                .includes("prose") %}
+                <li>
+                    <a href="{{post.url}}">{{post.data.title}}
+                        /
+                        <i>{{post.data.authour}}</i>
+                    </a>
+                </li>
+                {%endif%}
+            {%- endfor -%}
+        </ul>
+
+        
+</section>

@@ -1,0 +1,16 @@
+--- 
+title: piece
+layout: 'base.njk' 
+---
+
+<article class="piece">
+    <h2 class="piece-heading">{{title}}</h2>
+    <div class="piece-text">{{content | safe }}</div>
+
+    <div class="piece-authour">
+        <h3>{{authour}}</h3>
+        <p>{{bio | safe}}</p>
+    </div>
+
+</pre>
+</article>
