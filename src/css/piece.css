@@ -11,7 +11,7 @@
     white-space: pre-wrap;
 }
 
-img.piece-image{
+img.piece-image {
     width: 100%;
     margin-bottom: 20px;
 }
@@ -21,11 +21,40 @@ img.piece-image{
     font-size: 16px;
     padding-top: 10px;
     display: flex;
-    flex-wrap: wrap;
     gap: 20px;
 }
 
-.piece-authour-image{
+@media only screen and (max-width: 700px) {
+    .piece-authour {
+      flex-direction: column;
+    }
+  }
+
+.piece-authour-image {
     max-width: min(200px, 60vw);
     height: fit-content;
+}
+
+.masthead-item {
+    border-left: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    white-space: wrap;
+    margin-bottom: 20px;
+}
+
+.masthead-image {
+    width: min(400px, 80vw);
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+
+.masthead-title {
+    font-size: 24px;
+}
+
+.masthead-subtitle{
+    font-style: italic;
+    margin-bottom: 20px;
 }

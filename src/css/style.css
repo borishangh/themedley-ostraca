@@ -5,48 +5,52 @@
   font-family: "Libre Baskerville", serif;
 }
 
-img{
+img {
   max-width: 90vw;
 }
 
-main{
+main {
   padding: 30px;
   font-size: min(4vw, 18px);
   line-height: 1.4;
 }
 
-main p{
+main p {
   margin-bottom: 20px;
 }
 
-.content-title{
+.content-title {
   font-size: 40px;
   font-weight: 100;
   border-bottom: 6px double black;
   margin-bottom: 20px;
 }
 
-.med{
-max-width: 800px;
+.med {
+  max-width: 800px;
 }
 
-footer{
+footer {
   background: black;
   color: white;
   padding: 10px;
 }
 
-.issue-catagory{
+.issue-catagory {
   margin-bottom: 15px;
 }
 
-.issue-list li{
+.issue-list li {
   list-style: none;
   margin-left: 15px;
   margin-bottom: 15px;
 }
 
-.issue-list li a{
+.med ol li {
+  margin: 0 0 20px 30px
+}
+
+.issue-list li a {
   color: black;
   text-decoration: none;
   border-bottom: 1px solid black;

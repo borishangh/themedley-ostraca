@@ -3,6 +3,35 @@ title: Issues
 layout: 'base.njk' 
 ---
 
-{%- for issue in collections.list | reverse -%}
-<a href="{{issue.url}}">{{issue.data.title}}</a>
-{% endfor %}
+<style>
+    .issue-list {
+        display: flex;
+    }
+    .issue-card {
+        border: 1px solid black;
+        display: flex;
+        flex-direction:column;
+        margin: 10px;
+        text-decoration:none; 
+        width: min(300px, 20vw);
+    }
+    .issue-card:hover{
+    background:grey;
+    }
+    img.issue-cover {
+        height:  min(300px, 20vw);
+        object-fit:cover;
+    }
+    .issue-title{
+        color:black;
+        padding:10px;
+    }
+</style>
+<div class="issue-list">
+    {%- for issue in collections.list | reverse -%}
+        <a href="{{issue.url}}" class="issue-card">
+            <img src="{{issue.data.cover}}" class="issue-cover">
+            <div class="issue-title">{{issue.data.title}}</div>
+        </a>
+    {% endfor %}
+</div>

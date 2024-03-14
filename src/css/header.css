@@ -54,3 +54,32 @@ header nav li {
         gap: 20px;
     }
 }
+
+nav li{
+    position: relative;
+}
+
+nav li ul {
+    display: none;
+    top: 100%;
+    left: 0;
+    position: absolute;
+    background: gray;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+nav li ul li {
+    padding: 0;
+    border-bottom: 1px solid black;
+    width: 100%;
+    white-space: nowrap;
+}
+
+nav li ul li a{
+    display: block;
+}
+
+nav li:hover ul {
+    display: block;
+}
