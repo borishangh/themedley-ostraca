@@ -2,7 +2,7 @@
 title: We slipped into each other's hearts
 layout: 'piece.njk'
 authour: Surbhi Dadhich
-image: '\images\ssingh_poetry7.jpg'
+image: '\images\sdadhich_poetry7.jpg'
 tags: ["issue7", "poetry"]
 bio: "Going back and forth with the twists and turns of life, Surbhi can be seen taking refuge in the stories of the people and attempting to shift  perspective through their lens. On days, she would just be a lone wolf in the corner playing with the lyrics of Taylor Swift's songs. On other days, she hangs around with immense excitement and daredevilry at its fullest."
 ---
