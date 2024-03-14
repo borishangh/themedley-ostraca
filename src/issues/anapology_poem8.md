@@ -2,6 +2,7 @@
 title: Impressionists
 layout: 'piece.njk'
 authour: John Grey
+image: '\images\jgrey_poerty8.jpg'
 tags: ["issue8", "poetry"]
 bio: 'John Grey is an Australian poet, US resident, recently published in Sheepshead Review, Stand, Poetry Salzburg Review and Red Weather. Latest books, “Covert” “Memory Outside The Head” and “Guest Of Myself” are available through Amazon. Work upcoming in the McNeese Review, Rathalla Review and Open Ceilings.'
 ---

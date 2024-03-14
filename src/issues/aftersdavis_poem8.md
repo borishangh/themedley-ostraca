@@ -2,6 +2,7 @@
 title: After Stuart Davis' 'Ready to Wear' 1955
 layout: 'piece.njk'
 authour: Cynthia Gallaher
+image: '\images\cgallaher_poetry8.jpg'
 tags: ["issue8", "poetry"]
 bio: 'Cynthia Gallaher, a Chicago USA-based poet, is author of four poetry collections, many with themes, including <i>Epicurean Ecstasy: More Poems About Food, Drink, Herbs and Spices,</i> and three chapbooks, including <i>Drenched</i>. Her nonfiction/memoir/creativity guide <i>Frugal Poets’ Guide to Life: How to Live a Poetic Life, Even If You Aren’t a Poet</i> won a National Indie Excellence Award. She was recently selected to be the final judge for the 2022 Prairie State Poetry Prize.'
 ---

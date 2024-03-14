@@ -2,6 +2,7 @@
 title: Sweat, Grease, Smell, Metal, and Water
 layout: 'piece.njk'
 authour: Omi Anish
+image: '\images\oanish_prose8.jpeg'
 tags: ["issue8", "prose"]
 bio: 'Omi Anish is a writer based in Ahmedabad. She is a freelance ELT trainer and a reader at The Maine Review. A lover of all things surreal and abstract, Omi is drawn to brevity while writing and intricate patterns while crocheting. '
 ---

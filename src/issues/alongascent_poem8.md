@@ -2,6 +2,7 @@
 title: A long ascent towards the impending doom
 layout: 'piece.njk'
 authour: Saurav Maan
+image: '\images\smaan_poetry8.jpg'
 tags: ["issue8", "poetry"]
 bio: 'Confused between passion and profession, Saurav would choose procrastination - even while writing a one line bio. Or an anti-bio.'
 ---

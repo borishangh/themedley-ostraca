@@ -8,8 +8,11 @@ layout: 'base.njk'
     <div class="piece-text">{{content | safe }}</div>
 
     <div class="piece-authour">
-        <h3>{{authour}}</h3>
-        <p>{{bio | safe}}</p>
+        <img src="{{image}}" class="piece-authour-image">
+        <div class="piece-authour-text">
+            <h3 class="piece-authour-title">{{authour}}</h3>
+            <div class="piece-authour-bio">{{bio | safe}}</div>
+        </div>
     </div>
 
 </pre>

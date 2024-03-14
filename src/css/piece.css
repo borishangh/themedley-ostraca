@@ -1,0 +1,30 @@
+.piece {
+    max-width: 700px;
+    margin: 1vw 0 1vw 5vw;
+}
+
+.piece-heading {
+    margin-bottom: 20px;
+}
+
+.piece-text {
+    white-space: pre-wrap;
+}
+
+img.piece-image{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.piece-authour {
+    border-top: 1px solid black;
+    font-size: 16px;
+    padding-top: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.piece-authour-image{
+    max-width: min(200px, 20vw);
+    height: fit-content;
+}

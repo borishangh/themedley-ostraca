@@ -19,24 +19,6 @@ main p{
   margin-bottom: 20px;
 }
 
-.piece{
-  max-width: 700px;
-  margin: 1vw 0 1vw 5vw;
-}
-
-.piece-heading{
-  margin-bottom: 20px;
-}
-
-.piece-text{
-  white-space: pre-wrap;
-}
-
-.piece-authour{
-  border-top: 1px solid black;
-  padding-top: 10px;
-}
-
 .content-title{
   font-size: 40px;
   font-weight: 100;

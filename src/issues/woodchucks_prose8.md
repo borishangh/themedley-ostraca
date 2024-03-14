@@ -2,6 +2,7 @@
 title: Woodchucks without Sense
 layout: 'piece.njk'
 authour: John Brantingham
+image: '\images\jbrantingham_prose8.jpg'
 tags: ["issue8", "prose"]
 bio: 'John Brantingham was Sequoia and Kings Canyon National Parks’ first poet laureate. His work has been featured in hundreds of magazines, <i>Writers Almanac</i>, and <i>The Best Small Fictions 2016 and 2022</i>. He has nineteen books of poetry and fiction including <i>Life: Orange to Pear</i> (Bamboo Dart Press). He is the founder and general editor of <i>The Journal of Radical Wonder</i>.  He lives in Jamestown, NY.'
 ---

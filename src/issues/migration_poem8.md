@@ -2,6 +2,7 @@
 title: Migration
 layout: 'piece.njk'
 authour: Smitha Sehgal
+image: '\images\ssehgal_poetry8.JPG'
 tags: ["issue8", "poetry"]
 bio: 'Smitha Sehgal is a legal professional and poet oscillating between Delhi and Calicut, her beloved seaside home. She writes poetry in two languages- English and Malayalam. Her poems, fiction, and book reviews have been featured in contemporary literary publications such as  Reading Hour, Brown Critique, Kritya, Muse India, The Wagon Magazine,  Usawa Literary Review, Parcham, Madras Courier, Water Video Mag, Poetica Review UK, Lothlorien Poetry Journal, Arkana (upcoming), EKL Review, The Criterion, Kalakaumudi, Samakalika Malayalam, Kalapoorna, ShadowKraft, Da Cheung (Korean Literary Journal) and anthologies including  “40 Under 40: An Anthology of Post-Globalisation Poetry”, “Witness -Red River Book of Poetry of Dissent, World Poetry Anthology from Nepal (upcoming).'
 ---

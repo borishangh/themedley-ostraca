@@ -2,6 +2,7 @@
 title: Moonbone & Maybees
 layout: 'piece.njk'
 authour: David Earl Williams
+image: '\images\dwilliams_poerty8.jpg'
 tags: ["issue8", "poetry"]
 bio: David Earl Williams has been his alias since birth and he doesn't care what anybody who's supposed to know says, he's sticking with it.
 ---

@@ -1,8 +1,8 @@
 ---
 title: Variegated
-
 layout: 'piece.njk'
 authour: Adrienne Stevenson
+image: '\images\astevenson_poerty8.jpg'
 tags: ["issue8", "poetry"]
 bio: 'Adrienne Stevenson (she/her) lives in Ottawa, Ontario. A retired forensic scientist and Pushcart-nominated poet, she writes in many genres. Her poetry has appeared in more than forty print and online journals and anthologies in Canada, the USA, the UK, and Australia. When not writing, Adrienne tends a large garden, reads voraciously, and procrastinates playing several musical instruments.'
 ---

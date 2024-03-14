@@ -2,6 +2,7 @@
 title: The Seagull
 layout: 'piece.njk'
 authour: Maggie Iribarne
+image: '\images\miribarne_prose8.JPG'
 tags: ["issue8", "prose"]
 bio: 'Maggie Nerz Iribarne is 53, living her writing dream in a yellow house in Syracuse, New York. She writes about teenagers, witches, the very old, bats, cats, priests/nuns, cleaning ladies, runaways, struggling teachers, and neighborhood ghosts, among many other things. She keeps a portfolio of her published work at <a href="https://www.maggienerziribarne.com" target="_blank">www.maggienerziribarne.com</a>'
 ---
