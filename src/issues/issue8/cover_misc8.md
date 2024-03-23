@@ -1,0 +1,16 @@
+---
+title: Behind The Cover
+layout: 'piece.njk'
+authour: Philip Wexler
+image: '\images\issue8img\pwexler_poetry8.png'
+tags: ["issue8", "misc"]
+bio: 'Philip Wexler lives in Bethesda, Maryland and is retired after a long career at the U.S. National Library of Medicine.  Some 200 of his poems have appeared in magazines.  His poetry books include <i>The Sad Parade</i> (prose poems), and <i>The Burning Moustache</i>, both published by Adelaide Books, <i>The Lesser Light</i> by Finishing Line Press, <i>With Something Like Hope</i> (Silver Bow Publishing) and <i>I Would be the Purple</i> (Kelsay Books), the latter 3 all published in 2022.  He also organizes and hosts <i>Words out Loud</i>, a monthly spoken word series convened in-person at the Friends of the Library of Montgomery County (FOLMC) bookstore in Rockville, Maryland and remotely via Zoom.'
+---
+
+<img src = "\images\cover8.jpg" class="piece-image">
+
+Although I have focused on poetry for the large part of my non-professional life, I’ve always had an interest in and dabbled in the visual arts.  Twenty-five years ago or so, I decided to experiment with mosaics.  I enjoy its tactility as compared to, say, painting, although it presents unique challenges.  One works with a much more limited, albeit still sizeable, color palette so the precision one might aim for in a drawing or painting is less likely to be achieved.  And, of course, there is no way to readily accomplish blending or correcting mistakes via erasures or painting over.  But it is a joy to feel and manipulate the variety of materials (e.g. glass, marble, ceramic) passing through your hands and the pieces (called tesserae) cut bit by bit with the traditional hammer and hardie or modern-day nippers.  Finally, it’s rewarding to fit everything together, see a final product take shape, make a whole from parts. 
+
+For a base surface, I typically go with ¾” plywood.  I prime it with a diluted Weldbond glue solution and depending upon the piece, I may paint it black.  After coming up with a final sketch on paper, I trace this onto the wood.  For work with pieces not put directly in mortar, I attach to the base with Weldbond and either grout or leave ungrouted as the situation demands.  My materials are usually Italian or Mexican smalti, vitreous and other specialized glass pieces such as millefiori, marble and other stones, ceramic, and assorted knicknacks such as beads or ornaments of any material including metal.  For example, I recently completed a desert-themed mosaic with cacti and an armadillo, and incorporated coarse sand.
+ 
+The mosaic of an octopus on the cover is one of my favorites and I use it on my “business” cards although I don’t have a business.  I wanted the curvilinear design of the creature’s body and waving tentacles (partly composed of millefiori), bits of seaweed, and bubbles of water (some ot it, mirrored glass) to echo the circular base.  This contrasts with the rectilinear pieces.  Small turtles were made part of the composition to add some whimsy.  The right light reflecting off the surface, especially for irregularly cut pieces, can play a significant role in enhancing the view.
