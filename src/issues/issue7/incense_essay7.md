@@ -2,7 +2,7 @@
 title: Incense and Marigold
 layout: 'piece.njk'
 authour: Ananya Nair
-image: '\images\issue7img\anair_essay7.jpg'
+image: '\images\issue7img\anair_esssay7.jpg'
 tags: ["issue7", "essay"]
 bio: "Ananya is a second year student of English Honors at Hansraj. Writing has always been her way of escaping the monotony of life, not assignments though. She hopes, one day, to be able to write in a way that is not just for personal pleasure but for a bigger reason. Ananya can be found watching Joe Wright's Pride And Prejudice any given day of the week. Her dream is to own a very imaginary (for now) book cafe that she plans to open right next to Ruskin Bond's house. She lives in greek mythology references and hating on Zeus is a side hobby of hers."
 ---

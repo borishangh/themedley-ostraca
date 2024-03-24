@@ -7,7 +7,7 @@ tags: ["issue7", "misc"]
 bio: 'Saurabh is a first-year student pursuing Chemistry Honors from Hansraj College, Delhi University. His penchant for photography and treasuring memories through his lens makes him wander into places unknown. He is a humble and enthusiastic person who has made his mark internationally by participating and earning accolades in various events and competitions. His workscan be found on instagram <a href = "https://www.instagram.com/saurabhmention" target = "_blank">@saurabhmention </a>'
 ---
 
-<img src = "\images\cover7.jpg" class="piece-image">
+<img src = "\images\issue7img\cover7.jpg" class="piece-image">
 
 For me, photography is not just about a simple click of the capture button—it’s about treasuring the moments for eternity. Through the captured realities, one can travel back in time. This is what I have always found fascinating about pictures. Whenever one looks through an old album, they find themselves soaked in the memory and happenings of that time. Photographs tend to serve as a medium of bringing blurred memories to the fore and weaving a story along with them. 
 

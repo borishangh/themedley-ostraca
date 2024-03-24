@@ -4,7 +4,9 @@
 }
 
 .piece-heading {
-    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: min(8vw, 36px);
+    margin-bottom: 10px;
 }
 
 .piece-text {
@@ -57,4 +59,25 @@ img.piece-image {
 .masthead-subtitle{
     font-style: italic;
     margin-bottom: 20px;
+}
+
+.piece-byline{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 6px;
+    margin-bottom: 20px;
+}
+
+.byline-name{
+    font-style: italic;
+}
+
+.byline-issue{
+    font-family: "Work Sans", sans-serif;
+    text-decoration: none;
+    color: gray;
+    text-transform: uppercase;
+
 }
