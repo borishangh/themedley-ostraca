@@ -1,0 +1,101 @@
+--- 
+layout: 'base.njk' 
+---
+
+<style>
+
+    .issue-header {
+        color: white;
+        background: black;
+        padding: 5px;
+        width: min(90vw, 350px);
+    }
+
+    .issue-header a{
+    color: white;
+    border-bottom: 1px solid white;
+    }
+
+    .issue-header img{
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+    }
+
+    .issue-title{
+    font-weight:300;
+    font-size: min(40px, 5vw)
+    }
+    
+    .issue-subtitle, .catagory-title{
+        font-family: "Work Sans", sans-serif;
+        opacity:80%;
+        text-transform:uppercase;
+        font-weight:600;
+        font-size:24px;
+        margin-bottom:20px;
+    }
+
+    .catagory-title{
+        opacity:50%;
+        margin-bottom:20px;
+    }
+
+    .catagory-list li{
+        list-style: none;
+        margin-bottom: 10px;
+    }
+
+    .issue-catagory{
+        width: 300px;
+    
+    }
+</style>
+
+<div style="display:flex; flex-wrap:wrap; gap:40px">
+    <div class="issue-header">
+        <img src="{{ cover }}" style="width:100%; object-fit: cover;">
+
+        <div class="container">
+            <h1 class="issue-title">{{ title }}</h1>
+            <h2 class="issue-subtitle">Issue
+                {{issueNo}}</h2>
+
+            {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("misc") %}
+            <ul class="catagory-list">
+                {%- for post in categoryPosts %}
+                    <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+                {%- endfor -%}
+            </ul>
+        </div>
+    </div>
+
+    <div class="issue-catagory">
+        <h3 class="catagory-title">Poetry</h3>
+        {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("poetry") %}
+        <ul class="catagory-list">
+            {%- for post in categoryPosts %}
+                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+    </div>
+
+    <div class="issue-catagory">
+        <h3 class="catagory-title">Prose</h3>
+        {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("prose") %}
+        <ul class="catagory-list">
+            {%- for post in categoryPosts %}
+                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+    </div>
+
+    <div class="issue-catagory">
+        <h3 class="catagory-title">Essays</h3>
+        {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("essay") %}
+        <ul class="catagory-list">
+            {%- for post in categoryPosts %}
+                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+            {%- endfor -%}
+        </ul>
+    </div>
+</div>

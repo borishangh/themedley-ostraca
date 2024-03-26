@@ -28,6 +28,7 @@ header nav a {
     text-decoration: none;
     text-transform: uppercase;
     padding: min(1vw, 10px);
+    border: none;
     font-family: "Work Sans", sans-serif;
 }
 

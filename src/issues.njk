@@ -13,16 +13,18 @@ layout: 'base.njk'
         display: flex;
         flex-direction: column;
         color: black;
-        margin: 10px;
+        margin: 5px;
         text-decoration: none;
         width: min(300px, 30vw);
     }
     .issuelist-card:hover {
         background: black;
-        color:white;
+        color: white;
     }
 
-    .issuelist-card:hover .issuelist-title{border-bottom: 1px solid white;}
+    .issuelist-card:hover .issuelist-title {
+        border-bottom: 1px solid white;
+    }
 
     img.issuelist-cover {
         height: min(300px, 30vw);
@@ -30,11 +32,11 @@ layout: 'base.njk'
         margin: 2px;
     }
 
-    .issuelist-title{
+    .issuelist-title {
         font-size: min(24px,4vw);
         border-bottom: 1px solid black;
-        padding-bottom:2px;
-        margin-bottom:2px;
+        padding-bottom: 2px;
+        margin-bottom: 2px;
     }
 
     .issuelist-subtitle {
@@ -45,8 +47,11 @@ layout: 'base.njk'
         opacity: 80%;
     }
 </style>
+
 <div class="issuelist-list">
-    {%- for issue in collections.contents | reverse -%}
+    {% set sortedContents = collections.contents | sortContentsByIssueNo %}
+
+    {%- for issue in sortedContents  -%}
         <a href="{{issue.url}}" class="issuelist-card">
             <img src="{{issue.data.cover}}" class="issuelist-cover">
             <div style="padding:2px 5px">

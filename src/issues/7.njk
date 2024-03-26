@@ -1,13 +1,21 @@
 --- 
-title: 'Mosaic' 
+title: 'Layers' 
 tags: ["contents"] 
-issueNo: 8
-cover: '/images/issue8img/cover8.jpg'
-layout: 'base.njk' 
-
+issueNo: 7
+cover: '/images/issue7img/cover7.jpg'
+layout: 'issue.njk' 
+categories:
+  - title: "Poetry"
+    tag: "poetry"
+  - title: "Prose"
+    tag: "prose"
+  - title: "Essays"
+    tag: "essay"
+  - title: "Miscellaneous"
+    tag: "misc"
 ---
 
-<div style="display:flex; flex-wrap:wrap; gap:40px">
+{# <div style="display:flex; flex-wrap:wrap; gap:40px">
 <img src="{{cover}}" style="width:min(80vw,500px);height:min(80vw,500px);object-fit: cover;">
 <section class="med">
     <h1 class="content-title">
@@ -15,7 +23,7 @@ layout: 'base.njk'
     </h1>
 
     <ul class="issue-list">
-    {%- for post in collections.issue8 -%}
+    {%- for post in collections.issue7 -%}
         {% if post.data.tags.includes("misc") %}
             <li>
                 <a href="{{post.url}}">{{post.data.title}}
@@ -26,7 +34,7 @@ layout: 'base.njk'
             {%endif%}
         {%- endfor -%}
         <h3 class="issue-catagory">Poetry</h3>
-    {%- for post in collections.issue8 -%}
+    {%- for post in collections.issue7 -%}
         {% if post
             .data
             .tags
@@ -40,7 +48,7 @@ layout: 'base.njk'
             {%endif%}
         {%- endfor -%}
         <h3 class="issue-catagory">Prose</h3>
-        {%- for post in collections.issue8 -%}
+        {%- for post in collections.issue7 -%}
             {% if post
                 .data
                 .tags
@@ -54,7 +62,7 @@ layout: 'base.njk'
                 {%endif%}
             {%- endfor -%}
             <h3 class="issue-catagory">Essays</h3>
-        {%- for post in collections.issue8 -%}
+        {%- for post in collections.issue7 -%}
             {% if post
                 .data
                 .tags
@@ -69,4 +77,4 @@ layout: 'base.njk'
             {%- endfor -%}
         </ul>        
 </section>
-</div>
+</div> #}
