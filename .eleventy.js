@@ -5,7 +5,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addFilter("filterPostsByTag", function(posts, tag) {return posts.filter(post => post.data.tags.includes(tag));});
 
     eleventyConfig.addFilter("sortContentsByIssueNo", function (contents) {
-        return contents.sort((a, b) => a.data.issueNo - b.data);
+        return contents.sort((a, b) => b.data.issueNo - a.data.issueNo);
     });
 
     return {

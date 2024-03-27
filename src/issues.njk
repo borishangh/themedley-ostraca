@@ -6,6 +6,7 @@ layout: 'base.njk'
 <style>
     .issuelist-list {
         display: flex;
+        flex-wrap:wrap;
     }
 
     .issuelist-card {
@@ -15,7 +16,7 @@ layout: 'base.njk'
         color: black;
         margin: 5px;
         text-decoration: none;
-        width: min(300px, 30vw);
+        width: min(300px, 27vw);
     }
     .issuelist-card:hover {
         background: black;
@@ -62,3 +63,5 @@ layout: 'base.njk'
         </a>
     {% endfor %}
 </div>
+<br><br>
+<p>Some content may be missing as the site is under migration. Check back soon.</p>
