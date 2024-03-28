@@ -2,8 +2,8 @@
 title: My Mother’s Kajal
 layout: 'piece.njk'
 authour: Mayank Manchanda
-image: '\images\issue8img\smaan_poetry8.jpg'
-tags: ["issue6", "poetry"]
+image: '\images\issue5img\mmanchanda_poetry5.jpg'
+tags: ["issue5", "poetry"]
 bio: Mayank Manchanda is an undergraduate student pursuing English Literature from Shaheed Bhagat Singh College. He believes that poetry should never be a personal endeavor and should be used as an empathetic tool to highlight the lives of the less fortunate rungs of society. He is soon to be published in the prestigious All India anthology by Delhi Poetry Slam and has been fortunate enough to win creative writing and spoken word events at the prestigious colleges of the University of Delhi.
 ---
 She brings the lipstick close to her lips,

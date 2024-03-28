@@ -69,33 +69,39 @@ layout: 'base.njk'
         </div>
     </div>
 
+    {%- set poetry = collections['issue' + issueNo] | filterPostsByTag("poetry") %}
+    {% if poetry.length != 0 %}
     <div class="issue-catagory">
         <h3 class="catagory-title">Poetry</h3>
-        {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("poetry") %}
         <ul class="catagory-list">
-            {%- for post in categoryPosts %}
+            {%- for post in poetry %}
                 <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
             {%- endfor -%}
         </ul>
     </div>
+    {% endif %}
 
+    {%- set prose = collections['issue' + issueNo] | filterPostsByTag("prose") %}
+    {% if prose.length != 0 %}
     <div class="issue-catagory">
         <h3 class="catagory-title">Prose</h3>
-        {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("prose") %}
         <ul class="catagory-list">
-            {%- for post in categoryPosts %}
+            {%- for post in prose %}
                 <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
             {%- endfor -%}
         </ul>
     </div>
+    {% endif %}
 
+    {%- set essays = collections['issue' + issueNo] | filterPostsByTag("essay") %}
+    {% if essays.length != 0 %}
     <div class="issue-catagory">
         <h3 class="catagory-title">Essays</h3>
-        {%- set categoryPosts = collections['issue' + issueNo] | filterPostsByTag("essay") %}
         <ul class="catagory-list">
-            {%- for post in categoryPosts %}
+            {%- for post in essays %}
                 <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
             {%- endfor -%}
         </ul>
     </div>
+    {% endif %}
 </div>
