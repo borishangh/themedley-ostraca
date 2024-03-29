@@ -81,3 +81,7 @@ img.piece-image {
     text-transform: uppercase;
 
 }
+
+.piece-text ol{
+    margin:-50px 0 0 0;
+}
