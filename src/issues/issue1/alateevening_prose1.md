@@ -2,7 +2,7 @@
 title: A Late Evening in Summer, 2018
 layout: 'piece.njk'
 authour: Srishti Gupta
-image: \images\issue1img\shristi_essay1.jpg
+image: \images\issue1img\srishti_essay1.jpg
 tags: ["issue1", "prose"]
 bio: Srishti Gupta is pursuing English and is in her final year of graduation. A Delhiite, she is an avid reader and Urdu poetry enthusiast.
 ---
