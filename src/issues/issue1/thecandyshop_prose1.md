@@ -2,6 +2,7 @@
 title: The Candy Shop in Jammu
 layout: 'piece.njk'
 authour: Avishek Ghosh
+image: \images\issue1img\avishek_prose1.jpg
 tags: ["issue1", "prose"]
 bio: Avishek Ghosh is a third-year English Honours student at Hansraj College, University of Delhi. He frequently dabbles in magical realism, and watches too many movies for his own good.
 ---

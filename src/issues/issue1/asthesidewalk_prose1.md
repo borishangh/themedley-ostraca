@@ -2,7 +2,7 @@
 title: As The Sidewalk Ends
 layout: 'piece.njk'
 authour: Hemakshi Malik
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\hemakshi_prose1.jpg
 tags: ["issue1", "prose"]
 bio: Hemakshi Malik is a physical sciences student at Hansraj College. She has lived her entire life in Delhi but has only begun to know it recently. A budding science-fiction and astronomy enthusiast, stargazing gives her immense joy. Creative writing and photography have created significant value in her life and continue to help her break out of her comfort zone.
 ---

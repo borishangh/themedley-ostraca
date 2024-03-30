@@ -2,7 +2,7 @@
 title: 'A Muse Beyond Time: Delhi in Urdu Poetry'
 layout: 'piece.njk'
 authour: Srishti Gupta
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\shristi_essay1.jpg
 tags: ["issue1", "essay"]
 bio: Srishti Gupta is pursuing English and is in her final year of graduation. A Delhiite, she is an avid reader and Urdu poetry enthusiast.
 ---

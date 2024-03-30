@@ -2,7 +2,7 @@
 title: The Forking Bristles
 layout: 'piece.njk'
 authour: Anshuman Yadav
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\anshuman_prose1.jpg
 tags: ["issue1", "prose"]
 bio: Anshuman Yadav grew up in Delhi, India. He is pursuing English Honours from Hansraj College, University of Delhi and is in his final year. He is an avid reader and a cinephile.
 ---

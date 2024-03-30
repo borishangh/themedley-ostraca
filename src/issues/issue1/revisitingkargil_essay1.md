@@ -2,9 +2,9 @@
 title: Revisiting Kargil
 layout: 'piece.njk'
 authour: Akshat Mayne
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\akshat_essay1.jpg
 tags: ["issue1", "essay"]
-bio: Chitra Rajpal is a 3rd year undergraduate student pursuing history. This social butterfly believes in seeing something good in everything. Leave it to her to suggest you great music. Her welcoming personality, positivity, and chatty nature define her best. She finds comfort in salads as her meals, loves to fangirl over John Mayer, and wants to pet every dog that she comes across.
+bio: Akshat Mayne is a Final Year student of English Literature at Hansraj College. Apart from the poetry of Kipling and Tennyson, his interests lie deep in Military History. Born to a Third-Generation Indian Army officer, with shelves full of books at home, and the experiences of three generations, on war and conflict, he writes with a deep insight and understanding of the subject. Military Literature has not received its deserved share of acclaim, and through his writing, Akshat wishes to promote interest in the subject, and highlight its importance in the field of leadership, among others.
 ---
 The chilly winds at Drass, Kargil, do their best to keep the Tricolour fluttering at the Drass War Memorial to pay respect to the five hundred and twenty-seven martyrs, and the many that lived. Memories of war are such that they sear themselves upon the minds of those who have lived through the ordeal. Nineteen years ago, India and Pakistan, both nations recently elevated to nuclear status, fought a war on the cold and desolate heights of Kargil which drew the attention of the entire world.
 

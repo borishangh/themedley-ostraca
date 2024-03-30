@@ -2,7 +2,7 @@
 title: Caste in our Communities
 layout: 'piece.njk'
 authour: Rahul Chaudhary
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\rahul_essay1.jpg
 tags: ["issue1", "essay"]
 bio: Rahul Chaudhary is a cis-gendered, heterosexual, upper caste, middle class male who has had privilege fed to him for lunch since the past 20 years or so. Yet, by some fortunate accident, he happened to develop some amount of basic human decency needed to look beyond his, um, “issues.” Here is an article spawned by his privilege-guilty mind.
 ---

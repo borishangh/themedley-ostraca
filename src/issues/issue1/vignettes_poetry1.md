@@ -2,7 +2,7 @@
 title: Vignettes from a Car Ride
 layout: 'piece.njk'
 authour: Suyashi Smridhi
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue3img\suyashi_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Suyashi Smridhi is an aspiring writer and journalist from Patna. Her work has been published on platforms like Feminism in India, sbcltr.in, Coldnoon- International Journal of Travel Writing and Travelling Cultures amongst others. She is an alumnus of the Summer Institute, University of Iowa, a two-week creative writing cum cultural exchange program between India, Pakistan and the US.
 ---

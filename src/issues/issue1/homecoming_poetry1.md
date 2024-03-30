@@ -2,7 +2,7 @@
 title: Homecoming
 layout: 'piece.njk'
 authour: Ishita Gautam
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\ishita_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Ishita Gautam is a student of Literature at the University of Delhi. She likes to dabble in writing and to work for ecological causes.
 ---

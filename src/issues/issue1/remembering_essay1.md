@@ -2,7 +2,7 @@
 title: Remembering the Indian Freedom Struggle Movement
 layout: 'piece.njk'
 authour: Deepak Nain
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\deepak_essay1.jpg
 tags: ["issue1", "essay"]
 bio: Deepak Nain is a Third Year student pursuing an undergraduate degree in history. His interests lie in Indian history, contemporary politics and foreign policy. He is a passionate reader and a proponent of liberal ideas who believes firmly in historical revisionism using dynamic tools and methods for historical reconstruction.
 ---

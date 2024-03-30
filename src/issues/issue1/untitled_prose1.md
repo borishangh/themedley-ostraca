@@ -2,7 +2,7 @@
 title: Untitled
 layout: 'piece.njk'
 authour: Anasuya Borah
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\anasuya_prose1.jpg
 tags: ["issue1", "prose"]
 bio: Anasuya Borah is a graduate from Hansraj College, University of Delhi in Biological Sciences, and pursuing a Masters in Liberal Arts in Ambedkar University. She has a penchant for writing, dancing, debating and doing work that helps animals and humans in distress. She loves to sketch and sit at her writing desk, waiting for hours for a muse until she dozes off, but dreams are stories unwritten and she might as well enjoy it while she can.
 ---

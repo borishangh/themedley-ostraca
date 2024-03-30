@@ -2,7 +2,7 @@
 title: On some days
 layout: 'piece.njk'
 authour: Muskan Nagpal
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\muskan_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Muskan studied literature, but sometimes she thinks she lost it at the movies. She likes to write like she’s watching a film.
 

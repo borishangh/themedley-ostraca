@@ -2,7 +2,7 @@
 title: Home
 layout: 'piece.njk'
 authour: Soumya Vats
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\soumya_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Soumya is a third-year Literature student at Hansraj College, University of Delhi. With an appetite for anecdotes and coffee, she has worked briefly in Media and Journalism. When not obsessing over movie screenings or stressing over multiple deadlines, she can be found dramatically narrating stories to anyone who would lend an ear. She is currently grasping at her remaining college life to collect sufficient evidence against Bollywood’s deceptive portrayal of our educational institutions to someday prevent future generations from going through disappointment similar to hers.
 ---

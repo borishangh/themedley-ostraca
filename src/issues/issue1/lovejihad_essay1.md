@@ -2,7 +2,7 @@
 title: Love Jihad
 layout: 'piece.njk'
 authour: Malvika Jayakumar and Antara Agarwal
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\malvika_essay1.jpg
 tags: ["issue1", "essay"]
 bio: Malvika Jayakumar is a 3rd year English (Hons) student of Hansraj College who is also pursuing a Certificate Course in German. Her keen interests include politics, history, creative writing, painting, travelling and watching movies. <br> Antara Agarwal, a student of Hansraj College, is currently in her third year of pursuing English Hons. A member of the Creative Writing Society, Ostraca, she pens down her views and findings on the highly researched issue of Love Jihad that is said to have seeped into the hullabaloo of the already existing chaos of the county.
 ---

@@ -2,7 +2,7 @@
 title: Deaths Collected
 layout: 'piece.njk'
 authour: Aparajita Deb
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\aparajita_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Aparajita is of the mind that human beings are receptacles for stories, and that our legacies are determined by how beautifully, sadly, terribly or carefully we weave magic through ours.
 ---

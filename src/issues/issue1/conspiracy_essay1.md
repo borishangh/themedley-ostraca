@@ -2,7 +2,7 @@
 title: Conspiracy Theories 101
 layout: 'piece.njk'
 authour: Chitra Rajpal
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\chitra_essay1.jpg
 tags: ["issue1", "essay"]
 bio: Chitra Rajpal is a 3rd year undergraduate student pursuing history. This social butterfly believes in seeing something good in everything. Leave it to her to suggest you great music. Her welcoming personality, positivity, and chatty nature define her best. She finds comfort in salads as her meals, loves to fangirl over John Mayer, and wants to pet every dog that she comes across.
 ---

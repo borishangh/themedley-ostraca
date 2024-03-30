@@ -2,7 +2,7 @@
 title: Damnation
 layout: 'piece.njk'
 authour: Annika Amber
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\annika_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Annika Amber is a Computer Science major going in her final year with a keen interest in art and photography. With a dismissal for binaries in her heart and mind, she likes to spend her time drowning in sunsets and chasing poems. Burying half read books in her desolate never-to-be-read-again-land, she mourns their loss and has a dream to become their saviour someday.
 ---

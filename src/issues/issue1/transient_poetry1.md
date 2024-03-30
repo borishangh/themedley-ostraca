@@ -2,7 +2,7 @@
 title: Transient Summer
 layout: 'piece.njk'
 authour: Satyam Srivastava
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\satyam_poetry1.jpg
 tags: ["issue1", "poetry"]
 bio: Satyam Srivastava is a second year Chemistry student at Hansraj College, University of Delhi. Like many of us, he started writing poems for his high-school crush, but after an expected failure there, he moved on to different themes. He is a sports enthusiast and practices air-rifle shooting at amateur level. He also worked as the editor of the Hans-View magazine for election edition and his interests are literature, music, and spirituality. Lately he has also developed a liking for Hollywood movies.
 ---

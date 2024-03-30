@@ -2,7 +2,7 @@
 title: Kolkata
 layout: 'piece.njk'
 authour: Aaryaka Nidhi
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue1img\aaryaka_prose1.jpg
 tags: ["issue1", "prose"]
 bio: Aaryaka Nidhi is a third year literature student at Hansraj College. In her writing, she paints cities within indistinct boundaries, spilling colours that mix and match, curling up in places that make them look like they belong there. Otherwise, she is generally busy spending time with and singing songs to her favourite dogs in college. She also believes that a can of Coke and a packet of blue Lays are the things that will eventually help us attain world peace.
 ---
