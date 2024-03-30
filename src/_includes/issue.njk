@@ -75,7 +75,12 @@ layout: 'base.njk'
         <h3 class="catagory-title">Poetry</h3>
         <ul class="catagory-list">
             {%- for post in poetry %}
-                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+
+                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}
+                    {%if post.data.authour%}
+                    / <i>{{post.data.authour}}</i>
+                    {%endif%}
+                </a></li>
             {%- endfor -%}
         </ul>
     </div>
@@ -87,7 +92,11 @@ layout: 'base.njk'
         <h3 class="catagory-title">Prose</h3>
         <ul class="catagory-list">
             {%- for post in prose %}
-                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}
+                    {%if post.data.authour%}
+                    / <i>{{post.data.authour}}</i>
+                    {%endif%}
+                </a></li>
             {%- endfor -%}
         </ul>
     </div>
@@ -99,7 +108,11 @@ layout: 'base.njk'
         <h3 class="catagory-title">Essays</h3>
         <ul class="catagory-list">
             {%- for post in essays %}
-                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}</a></li>
+                <li><a href="{{post.url}}" class="catagory-link">{{ post.data.title }}
+                    {%if post.data.authour%}
+                    / <i>{{post.data.authour}}</i>
+                    {%endif%}
+                </a></li>
             {%- endfor -%}
         </ul>
     </div>

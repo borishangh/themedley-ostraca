@@ -57,10 +57,6 @@ a.catagory-link {
   border-bottom: 1px solid black;
 }
 
-a.catagory-link:hover {
-  font-style: italic;
-}
-
 .container {
   padding: 5px 10px;
 }

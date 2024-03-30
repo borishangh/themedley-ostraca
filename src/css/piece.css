@@ -84,4 +84,6 @@ img.piece-image {
 
 .piece-text ol{
     margin:-50px 0 0 0;
+}.piece-text blockquote{
+    margin: -40px 0 -40px 2 0px;
 }

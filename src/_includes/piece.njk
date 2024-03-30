@@ -7,7 +7,7 @@ layout: 'base.njk'
     <h2 class="piece-heading">{{title}}</h2>
     <div class="piece-byline">
         <span class="byline-name">{{authour}}</span>
-        <a class="byline-issue" href="/issues/{{tags[0]}}">{{tags.join(" / ")}}</a>    
+        <a class="byline-issue" href="/issues/{{issueNo}}">{{tags.join(" / ")}}</a>    
     </div>
     <div class="piece-text">{{content | safe }}</div>
 
