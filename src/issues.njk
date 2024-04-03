@@ -54,7 +54,7 @@ layout: 'base.njk'
 
     {%- for issue in sortedContents  -%}
         <a href="{{issue.url}}" class="issuelist-card">
-            <img src="{{issue.data.cover}}" class="issuelist-cover">
+            <img src="{{issue.data.thumbnail}}" class="issuelist-cover">
             <div style="padding:2px 5px">
                 <div class="issuelist-title">{{issue.data.title}}</div>
                 <div class="issuelist-subtitle">Issue
