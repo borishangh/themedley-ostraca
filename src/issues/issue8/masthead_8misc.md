@@ -14,6 +14,14 @@ bio: 'The Medley is the bi-annual journal of Ostraca - The Creative Writing Soci
     </div>
 </div>
 <div class="masthead-item">
+    <img class= "masthead-image" src="\images\issue8img\ssawhney_misc8.jpg">
+    <div class="masthead-content">
+        <div class="masthead-title">Swastik Sawhney</div>
+        <div class="masthead-subtitle">Prose Editor</div>
+        <div class="masthead-text">Swastik Sawhney is an English Literature student at Hansraj College. His artistic thirst led him to the cascade of words. He decorates his sky with creative pieces of prose, poetry, and all that jazz. Social welfare and happy old couples make his eyes shine. When he's not patiently listening to his friends' rant, he is humming the tunes of Jagjit Singh's Ghazals or binge-watching intense noir web series. He is a lump of complicated and expressive emotions who loves morning tea, night skies, and the myriad shades of happiness.</div>
+    </div>
+</div>
+<div class="masthead-item">
     <img class= "masthead-image" src="/images/issue8img/ssigi_misc8.jpg">
     <div class="masthead-content">
         <div class="masthead-title">Sitara Sigi</div>
