@@ -2,7 +2,7 @@
 title: We Called Her Soul
 layout: 'piece.njk'
 authour: Prithvijeet Sinha
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\psinha_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Prithvijeet Sinha lives in Lucknow where he looks after the administrative and managerial duties of a family enterprise, a cricket academy started by his father Abhijeet Sinha. His work has appeared in various publications such as Gnosis, Cafe Dissensus, Reader’s Digest, Confluence, The Medley, Thumbprint Magazine among others. He also publishes his poetry on Wattpad and blogs at An Awadh Boy’s Panorama.
 ---

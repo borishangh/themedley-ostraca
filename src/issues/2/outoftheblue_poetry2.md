@@ -2,7 +2,7 @@
 title: Out of the Blue
 layout: 'piece.njk'
 authour: Tushar Rishi
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\trishi_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Tushar Rishi is a second year literature student at Hindu College. His first novel, The Patient Patient, was shortlisted for Best Debut English Novel at Pune International Literature Festival 2017, and was translated into Hindi in 2018. He is all about drama movies, Murakami, and the music of The Beatles.
 ---

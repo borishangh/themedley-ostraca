@@ -2,7 +2,7 @@
 title: The Guilt of Detachment
 layout: 'piece.njk'
 authour: Ankita Raina
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\araina_prose2.jpg
 tags: ["issue2", "prose"]
 bio: Ankita Raina is a final year student of English Literature at Hansraj College. She is originally from Kashmir and brought up in Delhi. When she’s not writing for Ostraca or Hans Vision, the college newsletter, she is definitely watching a good movie.
 ---

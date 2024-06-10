@@ -2,7 +2,7 @@
 title: The Happiest Place on Earth
 layout: 'piece.njk'
 authour: Azal Dosanjh
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\adosanjh_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Azal Dosanjh is currently pursuing a Double Major in English Literature (Honours) and Communication Studies along with a Diploma in Film and Theatre from Memorial University of Newfoundland, Canada. His love for the art of film and stage drives him to write poetry which has helped him merge his passion with his profession, hence he sincerely hopes and play aggressively to his atheist stars that he does not go unemployed now that he is no longer majoring in psychology. God bless him.
 ---

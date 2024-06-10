@@ -2,7 +2,7 @@
 title: It's Moo
 layout: 'piece.njk'
 authour: Ashmeet Jolly
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\ajolly_prose2.jpg
 tags: ["issue2", "essay"]
 bio: Ashmeet Jolly is currently pursuing her Masters in Psychology at Punjab University, and is in her first year. She passionately delves into absurdist and existentialist humour and at the same time strives to find the meaning of her existence, failing every now and then. She is also a Bob Ross fan and is quite sad that she will never be able to meet him.
 ---

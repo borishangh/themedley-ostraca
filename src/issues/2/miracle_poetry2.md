@@ -2,7 +2,7 @@
 title: Miracle-e-Din
 layout: 'piece.njk'
 authour: Ajay Kumar
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\akumar_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Ajay is a high school student currently studying in Kendriya Vidyalaya OFDR Pune where he is the student editor of the school magazine, Abhivyanjana. He is enthusiastic about many things ranging from worldbuilding to conlanging to exploring mythologies. He is passionate about professional wrestling and regularly writes wrestling related articles for Sportskeeda.
 ---

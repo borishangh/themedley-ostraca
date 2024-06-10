@@ -2,7 +2,7 @@
 title: Cracked
 layout: 'piece.njk'
 authour: Sonakshi Srivastava
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\ssrivastava_prose2.jpg
 tags: ["issue2", "prose"]
 bio: Sonakshi Srivastava is a final year postgraduate student of English Literature at Delhi University and has an array of interests, ranging from creative writing to academia. A culture and arts enthusiast, she is currently intrigued by memes, and hopes to fulfill her mission of conquering world literature when not engaged with memes.
 ---

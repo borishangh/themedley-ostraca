@@ -2,7 +2,7 @@
 title: Ten Talks
 layout: 'piece.njk'
 authour: Gaurav Juyal
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\gjuyal_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Hailing from Dehradun, Uttarakhand, Gaurav Juyal is a Journalism student at English and Foreign Languages (EFL) University, Hyderabad. He has performed his poems in many colleges across Delhi and venues like Tabula Beach Café, Antisocial, Piano Man Jazz Club, and Kunzum Café to name a few. He is known for his distinct wordplay and metaphors, triple entrendres, and absurd poems. He hopes to travel and write content for wildlife documentaries one day.
 ---

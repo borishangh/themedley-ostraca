@@ -2,7 +2,7 @@
 title: On The Edge of the Storm
 layout: 'piece.njk'
 authour: Kushagra Tripathi
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\ktripathi_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Kushagra Tripathi is pursuing a masters in Mathematics from BITS Pilani, Goa Campus. He is a resident of Lucknow cafes and bookstores. Kushagra aspires to be a writer and someday hopes to write a series of crime fiction novels which end with Lucknow getting nuked. He loves reading fantasy and hates people who chew with their mouth open.
 ---

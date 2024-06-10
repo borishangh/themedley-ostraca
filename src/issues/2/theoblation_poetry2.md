@@ -2,7 +2,7 @@
 title: The Oblation
 layout: 'piece.njk'
 authour: Kunal Panda
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\kpanda_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Kunal Panda is an Economics Honours student at Hindu College, carrying with him the spice of Konkan Kombdi Vade with the simplicity of Oriya Chhena. He is an ardent reader of classic literature, from Homer and Virgil to the heart-warming passages of Emily Bronte. He is trying to find his calling in the hidden maze of the written word and somewhere along the line, the one with whom he can share his love for the same.
 ---

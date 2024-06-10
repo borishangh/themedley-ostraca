@@ -2,7 +2,7 @@
 title: For Hoshiarpur
 layout: 'piece.njk'
 authour: Jaishree Kumar
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\jkumar_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Jaishree Kumar is a poet, a failed musician and a student journalist. She’s usually found at protests, curled up in between the barricades.
 ---

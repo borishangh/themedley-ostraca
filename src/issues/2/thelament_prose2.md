@@ -2,7 +2,7 @@
 title: The Lament of the Damned
 layout: 'piece.njk'
 authour: Christina John
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\cjohn_prose2.jpg
 tags: ["issue2", "prose"]
 bio: Christina is an amateur who loves to delve deeper into the mysteries of literature. She would love to be invisible to everything around her. She has the firm belief that books, cinema and the right kind of professors can change your world.
 ---

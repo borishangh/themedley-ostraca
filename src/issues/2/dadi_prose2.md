@@ -2,7 +2,7 @@
 title: Dadi
 layout: 'piece.njk'
 authour: Sara Haque
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\shaque_prose2.jpg
 tags: ["issue2", "prose"]
 bio: Feminist, filmy and in an uncomfortable love-hate relationship with Delhi, Sara spends her time juggling between poetry, literature and stories scribbled on the walls of old Dilli lanes. Her love for small towns and over-saturated blue skies against rice fields, overcomes her existential dread. A second year Literature student in the city, Sara thinks curiosity will only ever save the cat, and give it a million tiny reasons to love life.
 ---

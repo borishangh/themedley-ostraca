@@ -2,7 +2,7 @@
 title: To Freida, With Love
 layout: 'piece.njk'
 authour: Ishani Pant
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\ipant_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Ishani is a second year English major, and like most other literature students, struggles with the habitual consumption of poetry as a recourse from the regular, and the consequent unravelling triggered by the headiness of what she reads. The writing is something that happens when she has momentarily reconciled feelings of insignificance amidst the vastness of literary creation and feelings of sudden inspiration.
 ---

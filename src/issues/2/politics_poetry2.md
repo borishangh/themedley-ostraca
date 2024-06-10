@@ -2,7 +2,7 @@
 title: Politics of the Divine
 layout: 'piece.njk'
 authour: Khadija Rehman
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\krehman_poetry2.jpg
 tags: ["issue2", "poetry"]
 bio: Khadija Rehman, a mermaid of the strait of literature, is pursuing Honours in English from Lady Sri Ram College for Women. She recognizes herself as a storyteller of crimson tales. She was born out of literature, and breathes in the woodsy smells of storybooks. She is an amateur writer of the dark, wine-blotched emotions; agony and pathos are the ink that stain her works.
 ---

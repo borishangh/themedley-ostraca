@@ -2,7 +2,7 @@
 title: Interview with Shubhangi Swarup
 layout: 'piece.njk'
 authour: Shubhangi Swarup
-image: \images\issue3img\pkar_essay3.jpg
+image: \images\issue2img\sswarup_misc2.jpg
 tags: ["issue2", "misc"]
 bio: Shubhangi Swarup is a journalist and an educationist. Latitudes of Longing, her debut novel, was on bestseller lists soon after its Indian release. It won the Tata LitLive prize for debut fiction, and was shortlisted for the JCB Prize for Literature. She was awarded the Charles Pick Fellowship for Creative Writing at the University of East Anglia, and has also won awards for gender sensitivity as a journalist.
 ---
