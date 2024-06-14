@@ -10,7 +10,8 @@ bio: 'The Medley is the bi-annual journal of Ostraca - The Creative Writing Soci
     <div class="masthead-content">
         <div class="masthead-title">Borishan</div>
         <div class="masthead-subtitle">Editor-in-Chief</div>
-        <div class="masthead-text">Borishan Ghosh is a 2nd year  physics major from Bengal. A conversation with him at any given time will include rants about the profundity of maths as an art, praise for David Foster Wallace, and maybe a poem recital or two. He draws, he writes, and he solves. But most importantly, he strives <i>to know</i>. He is the closest personification of a jack of all trades, and if he's around, a good time is guaranteed.</div>
+        <div class="masthead-text">Borishan Ghosh is a 2nd year  physics major from Bengal. A conversation with him at any given time will include rants about the profundity of math as an art, praise for David Foster Wallace, and maybe a poem recital or two. He draws, he writes, and he solves. But most importantly, he strives <i>to know</i>.
+        </div>
     </div>
 </div>
 <div class="masthead-item">
