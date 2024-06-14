@@ -1,5 +1,5 @@
 --- 
-title: piece
+title: piece 
 layout: 'base.njk' 
 ---
 
@@ -7,12 +7,17 @@ layout: 'base.njk'
     <h2 class="piece-heading">{{title}}</h2>
     <div class="piece-byline">
         <span class="byline-name">{{authour}}</span>
-        <a class="byline-issue" href="/issues/{{issueNo}}">{{tags.join(" / ")}}</a>    
+        <a class="byline-issue" href="/issues/{{issueNo}}">{{tags.join(" / ")}}</a>
     </div>
     <div class="piece-text">{{content | safe }}</div>
 
     <div class="piece-authour">
-        <img src="{{image}}" class="piece-authour-image">
+        <div>
+            <img src="{{image}}" class="piece-authour-image">
+            {% if credit %}
+            <div class="img-credit">Image Credit: {{credit}}</div>
+            {% endif %}
+        </div>
         <div class="piece-authour-text">
             <h3 class="piece-authour-title">{{authour}}</h3>
             <div class="piece-authour-bio">{{bio | safe}}</div>

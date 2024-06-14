@@ -11,6 +11,7 @@
 
 .piece-text {
     white-space: pre-wrap;
+    line-height: 1.6;
 }
 
 img.piece-image {
@@ -24,6 +25,11 @@ img.piece-image {
     padding-top: 10px;
     display: flex;
     gap: 20px;
+}
+
+.img-credit{
+    font-size: small;
+    color: gray;
 }
 
 @media only screen and (max-width: 700px) {
