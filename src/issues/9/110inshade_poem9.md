@@ -2,6 +2,7 @@
 title: 110 IN THE SHADE
 layout: 'piece.njk'
 authour: John Grey
+image: '\images\issue9img\jgrey_poem9.jpg'
 tags: ["issue9", "poetry"]
 bio: "John Grey is an Australian poet, US resident, recently published in New World Writing, North Dakota Quarterly and Lost Pilots. Latest books, ”Between Two Fires”, “Covert” and  “Memory Outside The Head” are available through Amazon. Work upcoming in California Quarterly, Seventh Quarry, La Presa and Doubly Mad."
 ---

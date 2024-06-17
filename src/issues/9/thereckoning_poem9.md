@@ -4,7 +4,7 @@ layout: 'piece.njk'
 authour: Philip Wexler
 image: \images\issue8img\pwexler_poetry8.png
 tags: ["issue9", "poetry"]
-bio: "Philip Wexler lives in Bethesda, Maryland and is retired after a long career at the U.S. National Library of Medicine. Some 200 of his poems have appeared in magazines. His poetry books include <i>The Sad Parade</i> (prose poems), and <i>The Burning Moustache</i>, both published by Adelaide Books, <i>The Lesser Light</i> by Finishing Line Press, <i>With Something Like Hope</i> (Silver Bow Publishing) and <i>I Would be the Purple</i> (Kelsay Books), the latter 3 all published in 2022. He also organizes and hosts <i>Words out Loud</i>, a monthly spoken word series convened in-person at the Friends of the Library of Montgomery County (FOLMC) bookstore in Rockville, Maryland and remotely via Zoom."
+bio: "Philip Wexler lives in Bethesda, Maryland and is retired after a long career at the U.S. National Library of Medicine. Over 210 of his poems have appeared in magazines. His poetry books include <i>The Sad Parade</i> (prose poems), and <i>The Burning Moustache</i>, both published by Adelaide Books, <i>The Lesser Light</i> by Finishing Line Press, <i>With Something Like Hope</i> (Silver Bow Publishing) and <i>I Would be the Purple</i> (Kelsay Books), the latter 3 all published in 2022. He also organizes and hosts <i>Words out Loud</i>, a monthly spoken word series convened at the Compass Arts Center in Kensington, Maryland."
 ---
 <pre>
 after all is said
