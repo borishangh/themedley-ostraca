@@ -1,0 +1,31 @@
+---
+title: Shayantani Das
+layout: 'piece.njk'
+authour: Shayantani Das
+image: '\images\issue10img\shayantani_misc10.webp'
+tags: ["issue10", "misc"]
+bio: "Shayantani Das, is an assistant English Literature Professor at Hindu College, Delhi University. She is a critic, and a writer. She focuses her analysis on prison writings like that of Minakshi Sen's <i>Jel Bhitor Jel</i>, studying the circumstances of women in prison, and the discriminations faced by them."
+---
+
+*Critic, writer, and academic, Shayantani Das teaches English Literature at Hindu College, Delhi University. Her writing and analysis often return to the silences of prison walls, to the fractured voices that emerge from incarceration. Like her analysis of Minakshi Sen’s Jeler Bhitor Jel, and other prison writings, she traces not only the lives of women who endure confinement but also the discrimination and double punishments they are made to carry.*
+
+*Her work is less about the spectacle of prison and more about the politics of confinement, the quiet rebellions that women enact, and the Daag's society insists they wear long after release. She writes drawing our attention so we notice those forgotten in the margins of both literature and history.*
+
+*In the middle of Delhi’s restless semester, she kindly agreed to join us for an interview over email.*
+
+**How do you see the ‘stains’ carried by women in prison-do they come more from the system they live in, the society waiting outside, or somewhere in between?**
+
+I would say the “stains” that women carry from prison are not rooted in a single space. Before these women even enter prison, many are already marked. Intersections of class, religion, mental illness, and stigmatised work such as prostitution mean that some women are under societal suspicion long before they are ever charged with a crime. Once inside the carceral system, those social “stains” are physically and psychologically re-inscribed. Prison life erodes dignity through practices like strip searches, poor nutrition, inadequate healthcare, and constant surveillance. The environment often leaves visible markers, such as poor physical health, and invisible ones. The behaviours and habits women adopt to survive inside can also make reintegration more difficult once they are released. 
+
+**Prison writings have often remained on the periphery of literature. Why do you think this is the case? And why do you think such writings are largely absent from classical writings?**
+ 
+I believe prison writings, especially those by women, have remained marginal in literary circles due to a mix of structural, historical, and cultural reasons. First, there's the issue of double marginalisation. Society has traditionally attached shame to both crime and female authorship, which means these writings receive little recognition as literary works in their own right. Then, there’s the difficulty in accessing and disseminating these narratives. Many prison writings never make it into publication, are rarely translated, and don't reach a wider audience, so they remain largely invisible to scholars and the public.
+Regarding classical literature, these writings are largely missing because for most of literary history, the experiences of women were rarely considered worthy of record or literary reflection. Early literature and scholarship on prison life overwhelmingly centered on men. Even revolutionary or political prison narratives typically spotlighted male figures, both because of historical focus and because women lacked access to the means of production, publication, and literary networks. Moreover, classical canons have traditionally valued grand themes of transcendence or heroism, which are less common in women’s prison writing, where the focus is often on daily realities and practical communication. This difference in texture and perceived lack of universality further hindered their entry into what is considered “literature.”
+
+**What first drew you into the world of prison writing-was it the politics, the people, or something more personal that compelled you to explore the lives and bodies of the incarcerated?**
+
+I first stumbled into the world of prison writing quite unexpectedly,  through Joya Mitra’s Hanyaman, which I discovered while browsing the Sahitya Akademi library. After that, I began actively seeking out other voices from behind prison walls, everything from memoirs, letters, dairies, poetry. What struck me almost immediately was how prison writing feels fundamentally different from other forms of autobiography or life writing. As Paul St. John once said, prison writing isn’t so much a “genre” as it is a “status”,  nobody chooses it freely. For me, its importance lies in the perspective it offers. It moves us beyond abstract statistics or bureaucratic language, grounding our understanding of incarceration in lived experience. When you read these works, you feel the temporal distortion of “doing time,” the constant negotiation of space and privacy, the way the body itself gets marked and regulated. Perhaps most importantly, prison writing forces us to confront the system itself. It asks us to see prisons not as remote storage units for offenders but as part of broader social, economic, and political networks; networks shaped by inequality, and by the markers of deviance that criminalise people long before they have committed a crime.
+
+**Lastly, what advice would you give to readers of this interview who aspire to pursue a career in academia?**
+
+If you plan to pursue academia, my first advice to you would be to be certain. Academia is a long, unglamorous road, and you need a question or a conviction that can carry you through the boring and the lonelier stretches. Spend time in the library, Delhi has so many good ones. Let your research question be one you can live alongside for years without losing curiosity. Work with others; collaboration makes the process easier. And above all, keep reading for pleasure. The moment reading becomes only work, your thinking will start to shrink.
