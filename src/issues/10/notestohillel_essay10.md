@@ -2,7 +2,7 @@
 title: Notes to Hillel
 layout: 'piece.njk'
 authour: Adonis Borer
-image: '\images\issue7img\adonis_essay10.jpg'
+image: '\images\issue10img\adonis_essay10.jpg'
 tags: ["issue10", "essay"]
 bio: "Adonis Borer is a Mexican-American Jewish writer based in Southern California. His works feature the often-clashing points of intersectionality within his own marginalized identities, particularly disability, queerness, ethnic situatedness, and religion. He has previously appeared in SeaGlass Literary, Prism Review, DisLit Youth Literary Magazine, Toyon Literary Magazine, from which he received the Richard Cortez Day Prize in Fiction, and is forthcoming in Oakland Arts Review."
 ---

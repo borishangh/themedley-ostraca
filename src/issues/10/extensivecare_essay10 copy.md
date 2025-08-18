@@ -4,7 +4,7 @@ layout: 'piece.njk'
 authour: Navneet Bhullar
 image: '\images\issue10img\navneet_essay10.jpg'
 tags: ["issue10", "essay"]
-bio: "Debra's social work career ended suddenly on 1/6/94 when a car ran her over, causing significant brain trauma. At the end of a long recovery that included a hospital/rehab centre stay, she found a new life in creative writing and volunteer work. Her newest book, All Shook Up: Finding Purpose After Traumatic Brain Injury, is now available. Her webpage : <a href = 'http://www.debrawhite.org/' target = '_blank'> debrawhite.org<a>"
+bio: "Navneet Bhullar is a doctor, climate activist, and caregiver. Her poetry and essays have been published in Cagibi, Citron Review, Peregrine journal, Wordgathering and The Bombay Literary Magazine. Her writing wrestles with highlighting the human and the personal as capitalism tramples over lives and ecosystems. She is working on a memoir in essays on caregiving. Navneet can be reached by email at areenmd@yahoo.com."
 ---
 
 
@@ -62,7 +62,6 @@ He is fine says the son matter-of-factly. A ventilator was arranged in the house
         I write vigorously, not wishing to miss a word. Is his voice singing?
 
 	5. *Gods, beds and luck*
-
       In the quiet ward next to the CCU ( the cardiac ICU), the mood has undertones of cautious relief. Family members sit by the beds after anxious days sitting outside for news from the CCU. This ward is where patients stay a day or more before discharge. The patient on bed 2 is in his mid fifties. He readily assents to answer my questions. His granddaughter, who must be ten, sits by him and listens avidly. He never went to school. She is a topper in her class. She fetches her father when I am done. Occasionally a junior doctor stops by the beds. There is mild chatter from other beds. 
       The son has an eighth grade education. He, like his father, expresses their satisfaction with this ICU experience. “The doctors know the illness, the patients are healing, so must not be disturbed,” he demurs, implying that they are fine with the limited hours- ninety minutes a day over three slots.
      "His heart rate was low when we got here. They put him on the ventilator and  took him inside the CCU. Let us work on him and we will let you know later, they said. After some hours, we found out he was fine, he would be fine.” says the son.
@@ -71,4 +70,4 @@ He is fine says the son matter-of-factly. A ventilator was arranged in the house
       We were similarly lucky in that doctorless ICU where my mother lay years ago on drips compensating for her poorly functioning heart muscles, my visits restricted despite my profession. 
 I realized such restrictive visiting hours dehumanise ICU care by further taking control from patients and families, and the idea for a study on patient and family perceptions of restricted ICU hours—with the hope for pursuing humanistic ICU care for all—germinated there. A visiting cardiologist I met in that same hospital days later eventually treated my mother in New Delhi and her heart function was restored after bypass surgery. It was a stroke of luck, our paradise restored for now.
 
-***
+**
