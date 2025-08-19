@@ -1,5 +1,5 @@
 ---
-title: Shayantani Das
+title: Interview with Shayantani Das
 layout: 'piece.njk'
 authour: Shayantani Das
 image: '\images\issue10img\shayantani_misc10.webp'
