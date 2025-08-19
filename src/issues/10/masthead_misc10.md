@@ -52,7 +52,7 @@ Someone who loves stirring up conversations and talk and debate about everything
     </div>
 </div>
 <div class="masthead-item">
-    <img class= "masthead-image" src="/images/issue9img/madhurjya_misc10.webp">
+    <img class= "masthead-image" src="/images/issue10img/madhurjya_misc10.webp">
     <div class="masthead-content">
         <div class="masthead-title">Madhurjya</div>
         <div class="masthead-subtitle">Prose Reader</div>

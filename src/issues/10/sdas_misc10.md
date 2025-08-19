@@ -4,7 +4,7 @@ layout: 'piece.njk'
 authour: Shayantani Das
 image: '\images\issue10img\shayantani_misc10.webp'
 tags: ["issue10", "misc"]
-bio: "Shayantani Das, is an assistant English Literature Professor at Hindu College, Delhi University. She is a critic, and a writer. She focuses her analysis on prison writings like that of Minakshi Sen's <i>Jel Bhitor Jel</i>, studying the circumstances of women in prison, and the discriminations faced by them."
+bio: "Shayantani Das, is an assistant English Literature Professor at Hindu College, Delhi University. She is a critic, and a writer. She focuses her analysis on prison writings like that of Minakshi Sen's <i>Jeler Bhitor Jel</i>, studying the circumstances of women in prison, and the discriminations faced by them."
 ---
 
 *Critic, writer, and academic, Shayantani Das teaches English Literature at Hindu College, Delhi University. Her writing and analysis often return to the silences of prison walls, to the fractured voices that emerge from incarceration. Like her analysis of Minakshi Sen’s Jeler Bhitor Jel, and other prison writings, she traces not only the lives of women who endure confinement but also the discrimination and double punishments they are made to carry.*
@@ -29,3 +29,6 @@ I first stumbled into the world of prison writing quite unexpectedly,  through J
 **Lastly, what advice would you give to readers of this interview who aspire to pursue a career in academia?**
 
 If you plan to pursue academia, my first advice to you would be to be certain. Academia is a long, unglamorous road, and you need a question or a conviction that can carry you through the boring and the lonelier stretches. Spend time in the library, Delhi has so many good ones. Let your research question be one you can live alongside for years without losing curiosity. Work with others; collaboration makes the process easier. And above all, keep reading for pleasure. The moment reading becomes only work, your thinking will start to shrink.
+
+
+*Interview by Angad Bharaj, Anikyet Bhusal, and Madhurjya*
