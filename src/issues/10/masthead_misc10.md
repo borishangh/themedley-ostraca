@@ -17,7 +17,7 @@ bio: 'The Medley is the bi-annual journal of Ostraca - The Creative Writing Soci
 <div class="masthead-item">
     <img class= "masthead-image" src="/images/issue10img/prachi_misc10.webp">
     <div class="masthead-content">
-        <div class="masthead-title">Prachi Kohla</div>
+        <div class="masthead-title">Prachi Khola</div>
         <div class="masthead-subtitle">Poetry Editor</div>
         <div class="masthead-text">Prachi is a second year student pursuing Bachelors in Sciences at Hansraj College, with a Minor in economics. Hailing from Delhi itself, she wishes to travel the whole world one day and embrace adventure all along the way. 
 With a strong interest in all sorts of sciences, she shares a strong passion for good literature and nitpicking almost all genres. 
