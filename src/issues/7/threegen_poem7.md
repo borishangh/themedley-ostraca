@@ -1,10 +1,9 @@
 ---
 title: Three generations
 layout: 'piece.njk'
-authour: Rujul Budhiraja
-image: '\images\issue7img\rbudhiraja_poetry7.jpg'
+authour: RB
 tags: ["issue7", "poetry"]
-bio: "Rujul Budhiraja (she/her) is a first-year law student at Jindal Global Law School, JGU. She enjoys writing fictional poetry in English, Hindi and Urdu, reading political and historical literature along with dwelling over Urdu ghazals and nazms."
+bio: ""
 ---
 My mother’s mother called today
 To ask my mother of her husband’s home,
