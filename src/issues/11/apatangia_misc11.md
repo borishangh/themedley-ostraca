@@ -2,6 +2,7 @@
 title: Interview with Arupa Patangia Kalita
 layout: 'piece.njk'
 authour: Arupa Patangia Kalita
+image: '\images\issue11img\apatangia_misc11.png'
 tags: ["issue11", "misc"]
 bio: "Arupa Patangia Kalita is a luminary of Assamese literature, celebrated for her powerful fiction. She won the Sahitya Akademi Award in 2014 for her story collection Mariam Austin Othoba Hira Barua, among other honors including the Assam Valley Literary Award. Her work often blends Assam’s rich folklore and turbulent history into intimate, piercing portraits of ordinary women, each enduring poverty, domestic hardship and even insurgent violence with quiet resilience."
 ---
