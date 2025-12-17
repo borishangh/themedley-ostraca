@@ -6,7 +6,15 @@ image: '\images\issue11img\apatangia_misc11.png'
 tags: ["issue11", "misc"]
 bio: "Arupa Patangia Kalita is a luminary of Assamese literature, celebrated for her powerful fiction. She won the Sahitya Akademi Award in 2014 for her story collection Mariam Austin Othoba Hira Barua, among other honors including the Assam Valley Literary Award. Her work often blends Assam’s rich folklore and turbulent history into intimate, piercing portraits of ordinary women, each enduring poverty, domestic hardship and even insurgent violence with quiet resilience."
 ---
+Critic, writer, and academic Arupa Patangia Kalita is a nationally recognized voice in contemporary Assamese literature and a 2014 Sahitya Akademi Award recipient. Her work, grounded in unflinching social realism, explores the complex history and social upheaval of India’s North East. She documents the devastating impact of militancy and conflict on ordinary lives, focusing especially on women and those from marginalized backgrounds.
 
+Her narratives map the geography of the ‘Laal’—political bloodshed, sexual repression, and systemic trauma. Kalita shows how patriarchal norms deepen women’s suffering, treating the female body as an object of control and gaze. Her most powerful contribution is her portrayal of the ‘insane women’ (pagoli), who become repositories of suppressed histories of violence and psychological wounds.
+
+Like others in this issue, Kalita’s works affirm resilience, revealing how her characters transform victimization into an “indomitable will to struggle” against oppressive power structures.
+
+In the midst of a bleak academic and literary season, she generously agreed to speak with us over email.
+
+*(interview by Angad Bharaj, Anikyet Bhusal and Madhurjya)*
 
 **Every writer carries a world inside them. How did Felanee’s world first begin inside you? Was there a single image, incident, or emotion that started it all?**	
 
