@@ -3,7 +3,7 @@ title: The Woman Who Bled Ink
 layout: 'piece.njk'
 authour: Tithi Karmakar
 image: '\images\issue11img\tkarmakar_prose11.webp'
-tags: ["issue10", "prose"]
+tags: ["issue11", "prose"]
 bio: "Tithi Karmakar is a Gender Studies master's student at Ambedkar University Delhi. With a background in philosophy, her writing often explores the intersections of gender, memory, and the body through introspective and sensory narratives. Her work moves fluidly between the personal and the political, often lingering in the quiet, complicated spaces between both. When she isn’t writing, she’s usually rewatching old films or chasing strange metaphors for love."
 ---
 It began the day she stopped using black pens.
