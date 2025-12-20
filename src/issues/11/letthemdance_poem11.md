@@ -1,7 +1,7 @@
 ---
 title: Let them dance in Laal
 layout: 'piece.njk'
-authour: Niranjyoti Baruah
+authour: Nayanjyoti Baruah
 image: '\images\issue11img\nbaruah_poem11.jpg'
 tags: ["issue11", "poetry"]
 bio: "Nayanjyoti Baruah is a poet from Assam, India. His poems have been appeared in national and international magazines and journals such as Rasa Literary Review, One Black Boy Like That Review, The Journal of Undiscovered Poets, Libretto Magazine, Otherwise Engaged journal, The Fiction Project, A Too Powerful Word, Necro Magazine, Open Door Magazine, The Chakkar Journal, The Defuncted Journal etc. "

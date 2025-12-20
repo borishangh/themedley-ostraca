@@ -1,7 +1,7 @@
 ---
 title: Little Red Circles
 layout: 'piece.njk'
-authour: Micheal Theroux
+authour: Michael Theroux
 image: '\images\issue11img\mtheroux_poem11.jpg'
 tags: ["issue11", "poetry"]
 bio: "Michael Theroux writes from Northern California. His career has spanned field botanist, environmental health specialist, green energy developer and resource recovery web site editor. He is shifting from the scientific and technical environmental field to placing his cache of creative writing, challenging in his seventh decade, but much more satisfying."
