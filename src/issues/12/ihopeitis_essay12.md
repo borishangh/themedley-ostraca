@@ -1,0 +1,24 @@
+---
+title: I hope it is Connaught Palace
+layout: 'piece.njk'
+authour: Arushi Thakur
+image: '\images\issue12img\athakur_essay12.webp'
+tags: ["issue12", "essay"]
+bio: "Arushi is pursuing her Bachelor’s degree in English. She loves writing and loves to write that she loves writing because she hates to consider it a cliché. She aspires that her writing brings its readers warmth and familiarity. She hopes they find a line or a phrase that would feel like Mero, and keep it close to their heart (or phone case!). "
+---
+
+It’s a day (it is already night) when I have had barely 4 hours of sleep but there’s a feeling on my chest that I have to put to rest before I put myself to rest. Random parts of random videos that I have seen about dilli have stringed up to perform longing packed in nostalgia, where dilli appears and even manages to disappear in a flash—which is very unlike the place because it engraves itself on your heart. The dilli that appears is the one that I have half seen and one that is meant to be half-lived. It is to be half-lived with the same pride with which my chest swells up when I tell everyone back home that “The city is amazing”, because there’s some part of me that wants to believe that this place isn’t stained, is beautiful while knowing it is not entirely; while knowing that duality exists, and there is existence in duality.
+
+That is why the dilli that I long to live as well as dread to leave behind exists exactly the way they show in those videos—blurred, flashes of light, rabdi running down the brim of the matka as the angle spans to the uncle selling it and pauses briefly on his smile before focusing again on a pizza with half a dozen of people laughing in the background in a dimly lit, yellow-tinted café where Delhi becomes dilli for many.
+
+I have been thinking about Connaught Place. Also about the things I just said but specifically about Connaught Place. I am situated at a corner where the plaster-white building rises to its majesty at around a 45-degree angle to my right, continuing to its front and back. And across and behind. And it blurs. And comes alive. Again and again, until it does it all again. The thing about Connaught Place is that I’ve been there with so many people I know. I’ve been there with my parents, with friends back from home, with friends from college, with people I am no longer friends with. Is it ironic that I haven’t been to CP (as much as my heart hurts, please allow me to use the abbreviation) with the friend that I had talked about visiting CP when we hadn’t even stepped foot in Delhi and had been just allotted colleges here?
+
+CP is a place that is nothing and everything at the same time. For once, it is just a familiar maze of winding roads that have tall ceilings supported by tall pillars and are all colourless, with branded shops and expensive cafés. At the same time, it is a beautiful open palace (you should get why I thought it was called Connaught Palace when I had initially heard of it) where you can keep walking and still end up within it. Someday, it might lead you into a dingy bookshop with a narrow and steep staircase that gave you and your friend refuge in its extremely chilled room on a very hot summer day when you decided it was a good idea to walk around CP while returning back from visiting a Qutb Minar.
+
+I have seen all of it and I have seen none of it. I have seen a couple smoking cigarettes while sitting on a bench behind the boy selling roses. I have seen a group of friends choosing posters to buy on the roadside. I have seen one of the posters hanging above the computer desk of someone else. I remember myself going there with a group I would never go again with.
+
+I travelled over 1000 kilometers to Delhi today. To the city that “is probably one of the least desirable places one could live in”. And, it felt like somewhere, it called me back. In all the places that I do not belong, I feel like do not belong the least in dilli. In some part of it. I would never say it outside this essay that it is mine. But I know that some part of it is mine. And now you do too. Maybe it is mine because it is like me—wild, unpredictable, elaborate and unforgiving. Maybe it is mine because it is nothing like me—dauntless, unapologetic, ruthless—and everything I aspire to be. Or because it exists while it doesn’t, like me. Or simply because it is. It is.
+
+I hope it is Connaught Palace. Whether it is the one flashing in the blurs when one thinks of it when their metro train passes past the Rajiv Chowk station, or the bitter nostalgia that stops them from going to that one café where they went with someone they don’t talk to anymore, I hope it is Connaught Place. Whether it is the one I had preliminary idea about before coming to Delhi, or the one I refrain from frequenting much now afraid it will lose its charm, I hope it is Connaught Place.
+
+Mine, mine, mine.
